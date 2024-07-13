@@ -1,0 +1,16 @@
+{
+  "name": "barcode",
+  "version": "2.2.0",
+  "description": "BarCode Coder Library (BCC Library)",
+  "main": "jquery/jquery-barcode.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/barcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/barcode/issues"
+  },
+  "homepage": "https://github.com/pneudart/barcode#readme"
+}
